@@ -9,5 +9,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GATHONI-WANJIRA&theme=highcontrast" />
 </a>
 
-<p align="center">
-<a href="https://twitter.com/Gathoni_Wanjira" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter" height="40" width="40" /></a>
+<p align="left">
+<a href="https://twitter.com/Gathoni_Wanjira" target="blank"><img align="left" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter" height="40" width="40" /></a>
