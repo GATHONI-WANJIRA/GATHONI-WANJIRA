@@ -11,3 +11,4 @@
 
 <p align="left">
 <a href="https://twitter.com/Gathoni_Wanjira" target="blank"><img align="left" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Twitter" height="40" width="40" /></a>
+<a href="www.linkedin.com/in/gathoni-w-2bb8a71a9" target="blank"><img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIN" height="40" width="40" /></a>
