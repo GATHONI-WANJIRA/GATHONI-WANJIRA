@@ -5,3 +5,6 @@
 ![GATHONI's GitHub stats](https://github-readme-stats.vercel.app/api?username=GATHONI-WANJIRA&theme=merko&show_icons=true)
 - 📫 How to reach me: ...
 
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GATHONI-GATHONI&theme=highcontrast" />
+</a>
